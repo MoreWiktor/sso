@@ -1,0 +1,9 @@
+[submodule "services/admin"]
+	path = services/admin
+	url = https://github.com/MoreWiktor/admin.sso.back
+[submodule "services/auth"]
+	path = services/auth
+	url = https://github.com/MoreWiktor/auth.sso.back
+[submodule "proto"]
+	path = proto
+	url = https://github.com/MoreWiktor/sso.proto

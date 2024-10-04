@@ -1,0 +1,11 @@
+{
+  "name": "sso",
+  "version": "0.0.1",
+  "author": "MoreWiktor <morewiktor@yandex.ru>",
+  "private": true,
+  "license": "UNLICENSED",
+  "description": "",
+  "scripts": {
+    "start:dev": ""
+  }
+}

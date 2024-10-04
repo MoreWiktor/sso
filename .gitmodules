@@ -6,7 +6,10 @@
 	url = https://github.com/MoreWiktor/auth.sso.back
 [submodule "auth.sso.front"]
 	path = front/auth
-	url = https://github.com/MoreWiktor/auth.sso.front.git
+	url = https://github.com/MoreWiktor/auth.sso.front
 [submodule "sso.proto"]
 	path = proto
 	url = https://github.com/MoreWiktor/sso.proto
+[submodule "auth.sso.api"]
+	path = api-gateway/auth
+	url = https://github.com/MoreWiktor/auth.sso.api
